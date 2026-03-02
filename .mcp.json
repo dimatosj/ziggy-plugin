@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ziggy": {
+      "command": "python3.11",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/servers/ziggy_server.py"],
+      "env": {
+        "ZIGGY_DATA_DIR": "~/.ziggy"
+      }
+    }
+  }
+}

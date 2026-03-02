@@ -1,0 +1,11 @@
+{
+  "name": "ziggy",
+  "version": "1.0.0",
+  "description": "Personal life OS — task capture, entity intelligence, structured reviews",
+  "author": {
+    "name": "Brindille & Twig",
+    "url": "https://github.com/brindilletwig"
+  },
+  "license": "MIT",
+  "keywords": ["personal", "tasks", "reviews", "entities", "life-management", "gtd"]
+}
