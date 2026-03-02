@@ -1,0 +1,13 @@
+{
+  "name": "ziggy-plugins",
+  "owner": {
+    "name": "Brindille & Twig"
+  },
+  "plugins": [
+    {
+      "name": "ziggy",
+      "source": "./",
+      "description": "Personal life OS — task capture, entity intelligence, structured reviews"
+    }
+  ]
+}
