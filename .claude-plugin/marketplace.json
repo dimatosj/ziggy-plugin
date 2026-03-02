@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "ziggy",
-      "source": "./",
+      "source": "./ziggy",
       "description": "Personal life OS — task capture, entity intelligence, structured reviews"
     }
   ]
